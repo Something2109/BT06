@@ -1,0 +1,13 @@
+﻿B4. Chú ý:
+- Có điều kiện chặn base case
+- Công thức có thể dẫn đến điều kiện chặn
+- Ko dùng đệ quy với những phép lặp nhiều, lặp sâu (tốn bộ nhớ)
+
+B5. 6 4 2 2 1 1 4 3 1 1 3 6
+
+B6. lỗi return
+
+B7. mystery(2,25) = 50
+	mystery(3,11) = 33
+	=> hàm này tính phép nhân 
+	thay + bằng * và 0 bằng 1 => tính lũy thừa 
